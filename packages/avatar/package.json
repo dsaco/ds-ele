@@ -4,8 +4,11 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "vue": "^3.0.5"
   },
-  "gitHead": "f5dd51354e6d25eca7badc42ce75ff44f9bc4a38"
+  "gitHead": "393d486cedc48c10a6543b1dddd3278cfd7e8fee"
 }
