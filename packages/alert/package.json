@@ -3,9 +3,9 @@
   "version": "0.0.4-alpha.0",
   "main": "index.js",
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "peerDependencies": {
     "vue": "^3.0.5"
   },
-  "gitHead": "b6021f37d1e373b54d7b766792b52cb03f5ae381"
+  "gitHead": "f5dd51354e6d25eca7badc42ce75ff44f9bc4a38"
 }
