@@ -1,9 +1,9 @@
 <template>
-	<h3>
+	<h4>
 		<span v-if="$slots.default">
 			<slot></slot>
 		</span>
-	</h3>
+	</h4>
 </template>
 
 <script lang="ts">
