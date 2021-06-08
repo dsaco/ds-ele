@@ -7,7 +7,14 @@
     "build": "vue-tsc --noEmit && vite build",
     "serve": "vite preview"
   },
-  "dependencies": {
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsaco/ds-ele.git"
+  },
+  "peerDependencies": {
     "vue": "^3.0.5"
   },
   "devDependencies": {
